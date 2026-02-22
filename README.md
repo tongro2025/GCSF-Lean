@@ -1,8 +1,15 @@
 # GCSF Lean
 
-A Lean formalization of the General Central Singularity Formula (GCSF),
-exploring the structural behavior of automorphic L-functions at the central
-point and the arithmetic implications of that behavior.
+A Lean formalization project accompanying the General Central Singularity
+Formula (GCSF), focusing on the structural setup and definitions around
+central singular behavior of L-functions.
+
+This repository does not claim a full formal proof of the General Central
+Singularity Formula.
+
+Instead, it provides a Lean formalization of the structural definitions and
+foundational framework introduced in the paper, intended as a
+verification-oriented companion and a step toward future formal development.
 
 ## Author
 
