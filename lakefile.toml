@@ -1,0 +1,11 @@
+name = "gcsflean"
+version = "0.1.0"
+defaultTargets = ["gcsflean"]
+
+[[lean_lib]]
+name = "GCSF"
+
+[[lean_exe]]
+name = "gcsflean"
+root = "Main"
+
