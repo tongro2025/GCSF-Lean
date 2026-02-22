@@ -2,7 +2,7 @@
 
 A Lean formalization of the General Central Singularity Formula (GCSF),
 exploring the structural behavior of automorphic L-functions at the central
-point and its arithmetic implications.
+point and the arithmetic implications of that behavior.
 
 ## Author
 
